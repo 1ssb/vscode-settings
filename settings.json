@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 10,
+    "files.autoSaveDelay": 0,
     "files.exclude": {
         "**/.git": true,
         "**/.DS_Store": true,
@@ -31,8 +31,8 @@
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
         "terminal.background": "#212229",
-        "activityBar.foreground": "#FFD700",  // Golden color for the active icon
-        "activityBar.inactiveForeground": "#FF0000",  // Red color for inactive icons
+        "activityBar.foreground": "#FFD700", // Golden color for the active icon
+        "activityBar.inactiveForeground": "#FF0000", // Red color for inactive icons
         "activityBarBadge.background": "#FF0000", // Red for activity bar badge background
         "activityBarBadge.foreground": "#FFD700", // Golden for badge text
         "editorBracketHighlight.foreground1": "#ff0000",
