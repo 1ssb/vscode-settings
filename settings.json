@@ -31,10 +31,10 @@
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
         "terminal.background": "#212229",
-        "activityBar.foreground": "#FFD700", // Golden color for the active icon
-        "activityBar.inactiveForeground": "#FF0000", // Red color for inactive icons
-        "activityBarBadge.background": "#FF0000", // Red for activity bar badge background
-        "activityBarBadge.foreground": "#FFD700", // Golden for badge text
+        "activityBar.foreground": "#FFD700",
+        "activityBar.inactiveForeground": "#FF0000",
+        "activityBarBadge.background": "#FF0000",
+        "activityBarBadge.foreground": "#FFD700",
         "editorBracketHighlight.foreground1": "#ff0000",
         "editorBracketHighlight.foreground2": "#00ff00",
         "editorBracketHighlight.foreground3": "#0000ff",
